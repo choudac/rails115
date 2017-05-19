@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
-  resources :welcome 
+  resources :welcome
   resources :groups
-  root 'groups#index'
+  root 'welcome#index'
 
 end
