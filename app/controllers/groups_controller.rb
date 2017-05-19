@@ -17,7 +17,7 @@ class GroupsController < ApplicationController
 
   private
 
-   def group_patams
+   def group_params
       params.require(:group).permit(:title, :description)
    end
 
