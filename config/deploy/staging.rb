@@ -9,7 +9,7 @@
 
 
 
-# role-based syntax
+# role-based syntax 
 # ==================
 
 # Defines a role with one or multiple servers. The primary server in each

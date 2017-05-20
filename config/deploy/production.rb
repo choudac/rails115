@@ -9,7 +9,7 @@ server "172.104.92.227", user: "apps", roles: %w{app db web}, my_property: :my_v
 
 
 
-# role-based syntax
+# role-based syntax 
 # ==================
 
 # Defines a role with one or multiple servers. The primary server in each
